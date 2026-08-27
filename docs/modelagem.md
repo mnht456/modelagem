@@ -1,5 +1,5 @@
 # Relatório de Arquitetura e Modelagem --- AcessaFácil
-
+https://trello.com/c/9zMgRQUM/7-start-using-trello
 ## 1. Introdução
 
 O **AcessaFácil --- Mapa de Acessibilidade da Escola** é uma proposta de
